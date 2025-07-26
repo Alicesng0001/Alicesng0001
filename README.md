@@ -1,30 +1,38 @@
-## 👩‍💻 Sobre mim
+<h1 align="center">Olá, eu sou a Alice 🖤🐾</h1>
 
-Olá! Meu nome é Alice e sou estudante de **Ciência da Computação** pela UNICID Cruzeiro do Sul.  
-Sou apaixonada por tecnologia, entusiasta da área de **dados** e estou construindo minha transição para o mercado de TI com muita **dedicação, estudo e projetos práticos**.
-
-Atualmente trabalho como **Assistente Administrativa no Alphacampus Cemitério e Crematório**, onde desenvolvi um olhar apurado para **detalhes, erros e processos**, algo que também trago para minha jornada na programação.
-
----
-
-## 🚀 Objetivo com este projeto
-
-Este repositório é parte do meu plano de estudos para me aprofundar em **Python**, com foco em:
-
-- Praticar lógica de programação
-- Automatizar tarefas do dia a dia
-- Desenvolver projetos reais e com utilidade prática
-- Criar um portfólio técnico para oportunidades futuras
-
-A proposta é simples: **20 semanas, 1 projeto por semana, 8 horas de estudo.**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Futura+Desenvolvedora+FullStack;Apaixonada+por+tecnologia+e+dados" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📌 Curiosidades
+### 🛠️ Tecnologias que estudo
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code)
 
-- Adoro organizar tudo com lousas, post-its e planners 🧠  
-- Estou super animada com cada conquista, por menor que pareça 💡  
-- Levo como inspiração a frase do jogo *Undertale*:  
-  > **“Você se enche de determinação.”**
-![WhatsApp Image 2025-04-06 at 19 09 07 (1)](https://github.com/user-attachments/assets/5bc28df8-6a6a-4933-9fe9-59acc88a82ae)
-![WhatsApp Image 2025-04-06 at 19 09 07](https://github.com/user-attachments/assets/e50e9cd1-795c-4c33-809f-9e9275640ba0)
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Alice's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alicearaujo-souza&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicearaujo-souza&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+### 📈 GitHub Metrics
+
+<img src="https://raw.githubusercontent.com/lowlighter/metrics/master/github-metrics.svg" alt="metrics" style="width:100%;"/>
+
+---
+
+### 🎵 Tocando agora
+
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=)](https://open.spotify.com/user/)
+
